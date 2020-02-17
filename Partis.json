@@ -1,0 +1,158 @@
+{
+    "Parti libéral du Canada":
+    {
+        "abreviation" : "P.L.C",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Parti conservateur du Canada":
+    {
+        "abreviation" : "P.C.C.",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Bloc Québécois":
+    {
+        "abreviation" : "B.Q.",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Nouveau parti démocratique":
+    {
+        "abreviation" : "N.P.D.",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Parti vert du Canada":
+    {
+        "abreviation" : "P.V.C.",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Parti populaire du Canada":
+    {
+        "abreviation" : "P.P.C.",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Coalition avenir Quebec":
+    {
+        "abreviation" : "C.A.Q",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Parti liberal du Quebec":
+    {
+        "abreviation" : "P.L.Q",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Parti quebecois":
+    {
+        "abreviation" : "P.Q",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Parti vert du Quebec":
+    {
+        "abreviation" : "P.V.Q",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Quebec solidaire":
+    {
+        "abreviation" : "Q.S",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Parti conservateur du Quebec":
+    {
+        "abreviation" : "P.C.Q",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    },
+    "Parti pour l'independance du Quebec":
+    {
+        "abreviation" : "P.I.Q",
+        "environnement" : "texte",
+        "education": "texte",
+        "sante": "texte",
+        "immigration": "texte",
+        "economie": "texte",
+        "art_culture": "texte",
+        "transport": "texte",
+        "energie": "texte"
+    }
+  }
