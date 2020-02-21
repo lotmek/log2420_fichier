@@ -2,157 +2,157 @@
     "Parti libéral du Canada":
     {
         "abreviation" : "P.L.C",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Parti conservateur du Canada":
     {
         "abreviation" : "P.C.C.",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Bloc Québécois":
     {
         "abreviation" : "B.Q.",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Nouveau parti démocratique":
     {
         "abreviation" : "N.P.D.",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "Les gens partout au pays s’inquiètent pour l’avenir. Les inondations et les feux de forêt menacent leur foyer et la pollution de l’air et de l’eau affecte gravement leur milieu de vie. Le Canada fait face à une urgence climatique et nous avons besoin d'un gouvernement avec le courage de faire de meilleurs choix pour notre environnement et pour la population. Il est temps de combattre les changements climatiques avec tout le sérieux que nécessite la situation. Les libéraux nous font perdre un temps précieux, en laissant les grands pollueurs s’en tirer et en donnant des milliards en subventions aux compagnies pétrolières et gazières. Les conservateurs nient quant à eux l’existence même du problème. La population, elle, sait que nous ne pouvons pas nous permettre de perdre plus de temps. Ensemble, protégeons notre air et notre eau et devenons des leaders en matière de lutte aux changements climatiques.",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Parti vert du Canada":
     {
         "abreviation" : "P.V.C.",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Parti populaire du Canada":
     {
         "abreviation" : "P.P.C.",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Coalition avenir Quebec":
     {
         "abreviation" : "C.A.Q",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Parti liberal du Quebec":
     {
         "abreviation" : "P.L.Q",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Parti quebecois":
     {
         "abreviation" : "P.Q",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Parti vert du Quebec":
     {
         "abreviation" : "P.V.Q",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Quebec solidaire":
     {
         "abreviation" : "Q.S",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Parti conservateur du Quebec":
     {
         "abreviation" : "P.C.Q",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     },
     "Parti pour l'independance du Quebec":
     {
         "abreviation" : "P.I.Q",
-        "environnement" : "texte",
-        "education": "texte",
-        "sante": "texte",
-        "immigration": "texte",
-        "economie": "texte",
-        "art_culture": "texte",
-        "transport": "texte",
-        "energie": "texte"
+        "Environnement" : "texte",
+        "Éducation": "texte",
+        "Santé et services sociaux": "texte",
+        "Immigration": "texte",
+        "Économie": "texte",
+        "Arts et culture": "texte",
+        "Transports": "texte",
+        "Énergie": "texte"
     }
   }
